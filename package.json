@@ -1,0 +1,20 @@
+{
+  "name": "FOOD_APP",
+  "version": "1.0.0",
+  "description": "\"# FOOD_APP\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshavbansal20/FOOD_APP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshavbansal20/FOOD_APP/issues"
+  },
+  "homepage": "https://github.com/keshavbansal20/FOOD_APP#readme"
+}
